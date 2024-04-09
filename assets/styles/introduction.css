@@ -1,14 +1,50 @@
 #introduction{
     background-color: indigo;
-    padding:5px;
+    padding:10px !important;
+}
+
+#super-intro {
     display: flex;
-    justify-content: space-around;
 }
 
 #intro {
     width:55vw;
-    height:45vh;
-    color: white;
+    height:30vh;
+    padding:15px !important;
+    margin:10px !important;
+    border-radius: 10px;
+    display: flex;
+    align-self: center;
+}
+
+.icard {
     background-color: #c5d86d;
-    text-align: justify;
+    font-size: large;
+    border: black solid 2px;
+    text-align: center !important;
+    line-height: 1,5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#note {
+    width:30vw;
+    height:15vh;
+    padding:15px !important;
+    margin:20px !important;
+    border-radius: 30px;
+    align-self: flex-end;
+}
+
+iframe {
+    height:100%;
+    width:100%;
+}
+
+.map-placer {
+    border: solid black 2px;
+    height:50vh;
+    display: flex;
+    justify-content: end;
 }
