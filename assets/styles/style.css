@@ -1,0 +1,20 @@
+@import url(nav.css);
+@import url(introduction.css);
+@import url(france.css);
+@import url(pays.css);
+@import url(bannieres.css);
+
+* {
+    margin:0px !important;
+    padding:0px !important;
+}
+
+.container {
+    background-color: blue;
+    margin-top:10vh !important;
+}
+
+.section {
+    height:90vh !important;
+    width:100vw !important;
+}

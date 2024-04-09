@@ -1,0 +1,14 @@
+#introduction{
+    background-color: indigo;
+    padding:5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#intro {
+    width:55vw;
+    height:45vh;
+    color: white;
+    background-color: #c5d86d;
+    text-align: justify;
+}
