@@ -6,3 +6,29 @@
     bottom:0px;
     padding:15px !important;
 }
+
+#superdiv-fr {
+    display: flex;
+    justify-content: space-around;
+}
+
+#redoutable_div {
+    background-color:lightcyan;
+    height:85vh;
+    width:20vw;
+    flex-direction: column;
+}
+
+#redoutable_div img {
+    width:95%;
+}
+
+#biarritz_div {
+    background-color: lightcyan;
+    width:65%;
+    flex-direction: column;
+}
+
+#biarritz_div img {
+    width:80%;
+}
