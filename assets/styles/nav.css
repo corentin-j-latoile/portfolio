@@ -1,5 +1,5 @@
 #nav {
-  position: fixed;
+  position: static;
   background-color:grey;
   width: 100vw;
   padding:5px;
