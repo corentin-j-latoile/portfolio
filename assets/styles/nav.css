@@ -1,7 +1,8 @@
 #nav {
-  background-color:blue;
+  background-color:grey;
   width: 100vw;
   padding:5px;
   display:flex;
   justify-content: space-around !important;
+  position: fixed;
 }
