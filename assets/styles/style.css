@@ -16,6 +16,7 @@ html {
 
 .container {
     background-color: blue;
+    width:100%;
     margin-top:10vh;
 }
 
