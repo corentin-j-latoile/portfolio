@@ -23,6 +23,12 @@ body {
     margin:0;
 }
 
+.container {
+    height:100%;
+    width:100%;
+    border: orange 1px solid;
+}
+
 .section {
     border: black 2px solid;
     height:90vh;
