@@ -3,6 +3,7 @@
   top:0;
   background-color:grey;
   width: 100vw;
+  height:10vh;
   padding:5px;
   display:flex;
   justify-content: space-around;
