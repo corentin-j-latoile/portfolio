@@ -1,5 +1,6 @@
 #nav {
   position: fixed;
+  top:0;
   background-color:grey;
   width: 100vw;
   padding:5px;
