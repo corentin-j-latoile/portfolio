@@ -1,4 +1,28 @@
 .icard {
-  background-color: blue;
-  height: 40%;
+  background-color: lightcyan;
+  height: 90%;
+  width:45%;
+  text-align: center;
+  display: flex;
+  gap:5px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.superdiv {
+  height:100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  padding:10px;;
+}
+
+.img {
+  height:70%;
+  width: fit-content;
+}
+
+#france {
+  background-color: darkcyan;
 }
