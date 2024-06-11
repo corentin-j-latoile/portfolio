@@ -1,1 +1,19 @@
+.icard-p {
+    background-color: lightgray;
+    height: 90%;
+    width:20%;
+    text-align: center;
+    display: flex;
+    gap:5px;
+    align-items: center;
+    flex-direction: column;
+}
 
+.imgp {
+    width:100%;
+    height: fit-content;
+}
+
+#pays {
+    background-color: darkslategrey;
+}
